@@ -1,0 +1,36 @@
+{
+  "flights": [
+    {
+      "id": 0,
+      "name": "F237",
+      "departureTime": 7
+    },
+    {
+      "id": 1,
+      "name": "B77",
+      "departureTime": 15
+    }
+  ],
+  "passengers": [
+    {
+      "id": 0,
+      "name": "Bob Jones",
+      "flightId": 0
+    },
+    {
+      "id": 2,
+      "name": "Sally Brown",
+      "flightId": 0
+    },
+    {
+      "flightId": 1,
+      "name": "Tina",
+      "id": 7
+    },
+    {
+      "flightId": 0,
+      "name": "Kaitlynne",
+      "id": 8
+    }
+  ]
+}
